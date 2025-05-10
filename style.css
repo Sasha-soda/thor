@@ -1,0 +1,109 @@
+.logoi{
+    width: 335px;
+    height: 475px;
+}
+body {
+    font-family: sans-serif;
+    background-color: black;
+}
+p {
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 24px;
+    border-radius: 10px;
+    display: block;
+    width: 100px;
+    text-align: center;
+}
+footer {
+    background-color: white;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 30px 30px 20px 45px;
+}
+
+.footer-text {
+    font-size: 24px;
+    margin-right: 30px;
+}
+
+.footer-text span {
+    color: #850AE5;
+    font-weight: bolder;
+}
+.footer-logo img{
+    width: 250px;
+    height: 150px;
+}
+nav {
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+    padding: 25px 100px 25px 95px;
+    display: flex;
+    justify-content: space-between;
+    text-decoration: ;
+}
+
+.nav-link {
+    font-size: 21px;
+    color: white;
+    text-decoration: none;
+    display: block;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    margin-bottom: 20px;
+    
+}
+.logo{
+    height: 100px;
+    
+}
+.button {
+    background-color: #36bbce;
+    color: black;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 24px;
+    border-radius: 10px;
+    display: block;
+    width: 100px;
+    text-align: center;
+}
+main p {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    float: right;
+    width: 400px;
+}
+.cap{
+    width: 145px;
+    height: 185px;
+}
+.catalog {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 700px;
+    margin: 0 30px;
+    
+}
+h1{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+.contacts p{
+    color: black;
+    width: 370px;
+}
+.footer-logo .logika{
+    height: 70px;
+    width: 125px;
+}
